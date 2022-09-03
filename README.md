@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @eathandueno
 - 👀 I’m interested in learning blockchain technology as well as machine learning
-- 🌱 I’m currently learning HTML, CSS, JS, and Python
+- 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on an ERC-20 Token
 - 📫 How to reach me eathandueno@gmail.com
 
