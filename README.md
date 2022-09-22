@@ -1,10 +1,3 @@
-- 👋 Hi, I’m @eathandueno
-- 👀 I’m interested in learning blockchain technology as well as machine learning
-- 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on crypto related Project
-- 📫 How to reach me eathandueno@gmail.com
+<img src=https://media.giphy.com/media/10zxDv7Hv5RF9C/giphy.gif />
 
-<!---
-eathandueno/eathandueno is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h1>About me</h1>
