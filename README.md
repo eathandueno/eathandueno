@@ -1,4 +1,4 @@
-<img src="https://giphy.com/gifs/hacker-hacking-binary-V4NSR1NG2p0KeJJyr5" />
+<img src="https://thumbs.gfycat.com/HatefulSeveralIbis-max-1mb.gif" alt='Matrix background' />
 
 <h1>About me</h1>
 <ul>
