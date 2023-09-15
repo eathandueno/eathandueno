@@ -5,6 +5,7 @@
   <li>Full Stack Developer </li>
   <li>Air Force Veteran </>
   <li>Computer Science Student</li>
+  <li>Studying to complete the NASM CPT</li>
 </ul>
 
 <h3>Languages:</h3>
